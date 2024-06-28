@@ -1,0 +1,1 @@
+"https://dummyjson.com/products?select=title,price,thumbnail,category"
